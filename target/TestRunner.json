@@ -1,0 +1,60 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-07-06T06:12:45.915Z",
+        "line": 3,
+        "name": "run demo feature",
+        "description": "",
+        "id": "run-normal-script;run-demo-feature",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user login",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "input valid credential",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "verify the HomePage",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user Logout",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "run normal script",
+    "description": "",
+    "id": "run-normal-script",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/tech/walkingtree/Appium/feature/Appium.feature",
+    "tags": []
+  }
+]
