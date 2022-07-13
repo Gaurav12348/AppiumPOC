@@ -1,0 +1,53 @@
+2022-07-13 15:02:32,330 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- BeforeSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:02:45,712 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- AfterSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:16,926 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- BeforeSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:17,555 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 5 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:18,127 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:18,690 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 7 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:19,260 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:20,329 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:20,946 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 50 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:21,494 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:22,627 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 70 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:23,204 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:24,258 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:25,417 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 120 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:25,963 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:28,219 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 1276 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:28,805 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:29,863 [main] INFO tech.walkingtree.Appium.stepdef.Helper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:07:30,311 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- AfterSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:15,440 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- BeforeSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:16,048 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 5 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:16,603 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:17,161 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 7 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:17,736 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:18,806 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:19,443 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 50 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:19,988 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:21,125 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 70 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:21,685 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:22,753 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:23,918 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 120 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:24,482 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:26,766 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 1276 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:27,334 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:28,393 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:34:28,831 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- AfterSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:34,094 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- BeforeSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:34,693 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 5 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:35,246 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:35,804 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 7 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:36,386 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:37,467 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:38,103 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 50 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:38,657 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:39,774 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 70 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:40,348 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:41,422 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:42,568 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 120 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:43,124 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Add Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:45,370 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Type Number: 1276 ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:45,941 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Press Equals Button ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:46,992 [main] INFO tech.walkingtree.Appium.stepdef.CalculatorHelper - %%%%%%%%%%%%%%%%%%%%%%%%%--- Verify the Result ---%%%%%%%%%%%%%%%%%%%%%%%%%
+2022-07-13 15:36:47,430 [main] INFO tech.walkingtree.Appium.runner.TestRunner - %%%%%%%%%%%%%%%%%%%%%%%%%--- AfterSuite ---%%%%%%%%%%%%%%%%%%%%%%%%%
